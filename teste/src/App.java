@@ -12,8 +12,9 @@ public class App {
         n1 = sc.nextDouble();
         System.out.print("Entre com o segundo valor: ");
         n2 = sc.nextDouble();
-        double sum = n1 + n2;
-        System.out.print("A soma é: " + String.format("%.2f", sum));
+        double mult = n1 * n2;
+        System.out.print("O produto da multiplicação é: " + String.format("%.2f", mult));
+        
 
     }
   }
