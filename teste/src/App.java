@@ -8,7 +8,6 @@ public class App {
 
         double n1 = 0 , n2 = 0;
         
-
         System.out.print("Entre com o primeiro valor: ");
         n1 = sc.nextDouble();
         System.out.print("Entre com o segundo valor: ");
